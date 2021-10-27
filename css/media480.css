@@ -1,0 +1,14 @@
+@media (max-width:480px) {
+    .banner-h1{
+        font-size: 70px !important;
+        padding-top: 30px !important;
+    }
+
+    .banner-h4{
+        font-size: 20px;
+    }
+
+    .banner-h5{
+        font-size: 20px;
+    }
+}
